@@ -1,0 +1,18 @@
+.inner_img {
+    width: 100% !important;
+    height: 85vh;
+}
+.img_cap h5{
+
+font-size: 33px;
+
+font-weight: 700;
+
+color: yellow;
+}
+.img_cap p{
+
+font-size: 22px;
+
+color: yellow;
+}
